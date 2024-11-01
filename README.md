@@ -1,2 +1,2 @@
 # Demo-Repo
-Making this repo for practicing
+Making this repo for practicing GitHub.
