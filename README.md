@@ -4,7 +4,7 @@ Making this repo for practicing GitHub.
 
 # Teacher
 
-Sharadah khapra teaching about github
+Sharadha Khapra teaching about github
 
 # Student
 
